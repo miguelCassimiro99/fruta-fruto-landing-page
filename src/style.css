@@ -1,0 +1,44 @@
+.card-width {
+    max-width: 18rem;
+}
+
+.imagem-carousel-1 {
+    object-fit: cover;
+    object-position: 0 70%;
+    height: 400px;
+}
+
+.imagem-carousel-2 {
+    object-fit: cover;
+    height: 400px;
+}
+
+.font-title {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred!important;
+}
+
+.botao-principal {
+    background-color: darkred;
+    color: white;
+    border: 1px solid darkred;
+}
+
+.botao-principal:hover {
+    background-color: white;
+    color: darkred;
+    border: 1px solid darkred;
+}
+
+.borda-card {
+    border: 1px solid darkred;
+}
+
+.card-images {
+    object-fit: cover;
+    object-position: 0 70%;
+    height: 200px;
+}
